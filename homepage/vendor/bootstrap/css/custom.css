@@ -1,0 +1,27 @@
+.jumbotron {
+    padding: 2rem 1rem;
+    margin-bottom: 2rem;
+    background-color: #ffff;
+    border-radius: .3rem
+}
+
+.btn.btn-primary {
+  background-color: #D6C41C;
+  color: black;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-size: 16px;
+  border-radius: 25px;
+  border-color: azure;
+  transition: transform 0.2s ease-out;
+  /* Add more styling rules here */
+}
+
+.btn.btn-primary:hover {
+    background-color: #c2b117;
+    color: white;
+    transform: scale(1.1);
+    /* Add more hover styling rules here */
+  }
+
+  
